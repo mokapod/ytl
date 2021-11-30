@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 RT | 新闻 | https://raw.githubusercontent.com/mokapod/pl/main/lg/int/russia-today-int.png |
-https://www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg/live
+https://www.youtube.com/channel/UC_ab7FFA2ACk2yTHgNan8lQ/live
 
 CNA 24 Hours News | News | https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8786976/16x9/991/557/b5725ccd88967cbdbc70aa882ad1c3b5/fk/cna-default-image.png |
 https://www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg/live

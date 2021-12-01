@@ -1,0 +1,8 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+RT | 新闻 | https://raw.githubusercontent.com/mokapod/pl/main/lg/int/russia-today-int.png |
+https://www.youtube.com/channel/UC_ab7FFA2ACk2yTHgNan8lQ/live
+
+CBS News | 新闻 | https://raw.githubusercontent.com/mokapod/pl/main/lg/us/cbsn-us.png |
+https://www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g/live

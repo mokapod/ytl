@@ -12,7 +12,7 @@ banner = r'''
 #########################################################################
 '''
 
-news = r'''
+news = '''#EXTM3U
 #EXTINF:-1 tvg-id="513" tvg-name="Al Jazeera English HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/aljazeera-int.png" group-title="新闻",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="512" tvg-name="BBC World News HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/bbc-world-news-int.png" group-title="新闻",BBC World News
@@ -30,8 +30,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8
 #EXTINF:-1 tvg-id="AGEC3" tvg-name="France24" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/france-24-int.png" group-title="新闻",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="398" tvg-name="NHK World" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/nhk-world-japan-int.png" group-title="新闻",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-'''
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8'''
 
 import requests
 import os
@@ -67,7 +66,6 @@ def grab(url):
     print(f"{link[start : end]}")
 
 #print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
-print('#EXTM3U')
 #print(banner)
 print(news)
 #s = requests.Session()

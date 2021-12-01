@@ -1,11 +1,11 @@
 # This is a basic workflow to help you get started with Actions
 
-name: M3U generator Youtube
+name: M3U generator
 
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: '0 0/1 * * *'
+    - cron: '0 0/3 * * *'
     
   pull_request:
     branches:
@@ -28,7 +28,13 @@ jobs:
 
       # Runs a single command using the runners shell
       #- name: Run a one-line script
-      #  run: echo testing
+      #  run: echo testing!
+
+      # Runs a set of commands using the runners shell 
+      - name: config
+        run: |
+          git config --global user.email "unnik1998@gmail.com"
+          git config --global user.name "benmoose39"
       
       
       - name: Main
@@ -42,17 +48,9 @@ jobs:
           git add -A
           ls -la 
           
-      - name: config
+      - name: commit & push
         run: |
-          git config --global user.email leongkaisheng8@gmail.com
-          git config --global user.name samleong123
-          git add .
-          git commit -m "Update link" 
-      
-      - name: commit
-        uses: ad-m/github-push-action@master
-        with:
-         github_token: ${{ secrets.GITHUB_TOKEN }}
-         branch: main
+          git commit -m "links are updated"
+          git push
           
           

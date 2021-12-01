@@ -1,15 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
-
-#########################################################################
-#      ____            _           _   __  __                           #
-#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
-#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
-#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
-#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
-#                   |__/                                                #
-#                                  >> https://github.com/benmoose39     #
-#########################################################################
-
+#EXTM3U
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/russia-today-int.png" tvg-id="", RT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1638358988/ei/bAunYbf3NNbLkgbK0LCwDw/ip/20.98.81.245/id/NcoFT4eew0Q.16/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIZzCsTuRCez8o-h4GnpO-mIpo9Q-5UFyv2SOQ7WokULAiBMy4Ose4Hsavn3iDXERq3I_yFbP54EseABgM7ygGxcuw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1638359174/ei/JgynYa_vGbbjhwbQjrq4Aw/ip/40.117.236.147/id/NcoFT4eew0Q.16/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgN59TQoymNolZ7wC1FUMLFXAsJK_mAjrCQxsIrrO3mqICIBoecLc8a2al41SJS_Q5HV4qFFVy_bUniPXZGCYBffTJ/file/index.m3u8

@@ -13,6 +13,7 @@ banner = r'''
 '''
 
 news = '''#EXTM3U
+
 #EXTINF:-1 tvg-id="513" tvg-name="Al Jazeera English HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/aljazeera-int.png" group-title="新闻",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="512" tvg-name="BBC World News HD" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/bbc-world-news-int.png" group-title="新闻",BBC World News

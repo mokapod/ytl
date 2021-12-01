@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/int/russia-today-int.png" tvg-id="", RT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1638356793/ei/2QKnYdTVF7GSsfIPtLS92AY/ip/20.115.147.235/id/NcoFT4eew0Q.16/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIN3yw_AfiF4-5MzDqUD7Ams4gGc5u3qikdc85yUNw-EAiEA9KlcGpG30Nv9rrZ9PCLwucqmNaNuolofwOeU7IttCRM%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1638358211/ei/YwinYZaFFM2IkgbAwZzIAw/ip/20.109.166.77/id/NcoFT4eew0Q.16/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALb4e1pewadVbCTxaNrnUlVE28yT6-DowZ3WbZ5FlyofAiAfkGNJ8oDe9Rib6af-3s5FLsfk1_4mquGBvF0wp9NPQw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://raw.githubusercontent.com/mokapod/pl/main/lg/us/cbsn-us.png" tvg-id="", CBS News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
